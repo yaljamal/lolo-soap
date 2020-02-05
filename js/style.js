@@ -24,7 +24,7 @@ function gitpro() {
     return git;
 
 }
-document.write(`<p>`+ name + " Ur chose is : "+ peces + " peaces " + <br></br>+ gitpro(whitch) + `<p>`);
+document.write(`<p>`+ name + " Ur chose is : "+ peces + " peaces " + gitpro(whitch) + `<p>`);
 
 
 
